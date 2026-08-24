@@ -13,3 +13,5 @@ Codeforces - Problems from the codeforces website
 
 Atcoder - Problems from the atcoder website
     -Contest upsolves(ABC)
+
+Solution videos: I'll try my best to provide the unlisted video link on the code solution lol
