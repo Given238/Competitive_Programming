@@ -1,5 +1,7 @@
 // Source: https://usaco.guide/general/io
 
+// Yt unlisted explanation : https://youtu.be/FFy2KHyUu_c
+
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
